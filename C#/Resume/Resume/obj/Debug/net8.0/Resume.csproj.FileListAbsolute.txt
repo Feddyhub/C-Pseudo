@@ -1,0 +1,4 @@
+C:\Users\data2\source\repos\Resume\Resume\obj\Debug\net8.0\Resume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data2\source\repos\Resume\Resume\obj\Debug\net8.0\Resume.AssemblyInfoInputs.cache
+C:\Users\data2\source\repos\Resume\Resume\obj\Debug\net8.0\Resume.AssemblyInfo.cs
+C:\Users\data2\source\repos\Resume\Resume\obj\Debug\net8.0\Resume.csproj.CoreCompileInputs.cache
