@@ -1,0 +1,14 @@
+C:\Users\data2\source\repos\deneme\deneme\bin\Debug\net8.0\deneme.exe
+C:\Users\data2\source\repos\deneme\deneme\bin\Debug\net8.0\deneme.deps.json
+C:\Users\data2\source\repos\deneme\deneme\bin\Debug\net8.0\deneme.runtimeconfig.json
+C:\Users\data2\source\repos\deneme\deneme\bin\Debug\net8.0\deneme.dll
+C:\Users\data2\source\repos\deneme\deneme\bin\Debug\net8.0\deneme.pdb
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\deneme.AssemblyInfoInputs.cache
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\deneme.AssemblyInfo.cs
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\deneme.dll
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\refint\deneme.dll
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\deneme.pdb
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\deneme.genruntimeconfig.cache
+C:\Users\data2\source\repos\deneme\deneme\obj\Debug\net8.0\ref\deneme.dll
